@@ -61,6 +61,8 @@ Make sure you have Postgres (version 16 or above) installed on your system. Opti
 - **Check the Swagger Doc:**
     [http://127.0.0.1:8000/swagger/](http://127.0.0.1:8000/swagger/)
 
+### Hosted on Heroku platform
+
 ### Remote API Endpoints
 
 You can use the following endpoints on the remote server:
